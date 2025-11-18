@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manshur0590/purchase-order-app/static/css/main.4be98d34.css",
+    "main.js": "/manshur0590/purchase-order-app/static/js/main.248cd968.js",
+    "index.html": "/manshur0590/purchase-order-app/index.html",
+    "main.4be98d34.css.map": "/manshur0590/purchase-order-app/static/css/main.4be98d34.css.map",
+    "main.248cd968.js.map": "/manshur0590/purchase-order-app/static/js/main.248cd968.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be98d34.css",
+    "static/js/main.248cd968.js"
+  ]
+}
