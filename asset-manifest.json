@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/manshur0590/purchase-order-app/static/css/main.4be98d34.css",
-    "main.js": "/manshur0590/purchase-order-app/static/js/main.248cd968.js",
-    "index.html": "/manshur0590/purchase-order-app/index.html",
-    "main.4be98d34.css.map": "/manshur0590/purchase-order-app/static/css/main.4be98d34.css.map",
-    "main.248cd968.js.map": "/manshur0590/purchase-order-app/static/js/main.248cd968.js.map"
+    "main.css": "/purchase-order-app/static/css/main.4be98d34.css",
+    "main.js": "/purchase-order-app/static/js/main.310dd50c.js",
+    "index.html": "/purchase-order-app/index.html",
+    "main.4be98d34.css.map": "/purchase-order-app/static/css/main.4be98d34.css.map",
+    "main.310dd50c.js.map": "/purchase-order-app/static/js/main.310dd50c.js.map"
   },
   "entrypoints": [
     "static/css/main.4be98d34.css",
-    "static/js/main.248cd968.js"
+    "static/js/main.310dd50c.js"
   ]
 }
